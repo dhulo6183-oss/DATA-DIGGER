@@ -134,7 +134,8 @@ This table tracks **product-wise order details, sales, and revenue analysis**.
 ![Top Products](L3.png)
 
 ---
-
+📸 Screenshot:
+![Times Sold](t4.png)
 
 
 👉 This query shows how many times each product is sold:
