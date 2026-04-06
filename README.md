@@ -134,21 +134,10 @@ This table tracks **product-wise order details, sales, and revenue analysis**.
 ![Top Products](L3.png)
 
 ---
-📸 Screenshot:
-![Times Sold](t4.png)
-
-
-👉 This query shows how many times each product is sold:
-
-```sql
-SELECT ProductID, COUNT(*) AS TimesSold
-FROM order_detalis
-GROUP BY ProductID;
-```
+🔹 Product Sales Count
 
 📸 Screenshot:
 ![Times Sold](t4.png)
-
 
 
 # ⚙️ 🛠️ Technologies Used
