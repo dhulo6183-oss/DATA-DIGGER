@@ -66,7 +66,7 @@ This table contains order details like **order date and total amount**.
 
 ### 🔹 Update Order Amount
 
-![Update Orders](o2.png)
+![Update Orders](02.png)
 
 ### 🔹 Delete Order
 
