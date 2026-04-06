@@ -136,7 +136,6 @@ This table tracks **product-wise order details, sales, and revenue analysis**.
 ---
 🔹 Product Sales Count
 
-📸 Screenshot:
 ![Times Sold](t4.png)
 
 
