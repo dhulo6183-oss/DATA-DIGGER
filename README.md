@@ -29,15 +29,15 @@ This table stores customer information like **name, email, and address**.
 
 ### 🔹 Initial Data
 
-![Customers Table](cs.1.png)
+![Customers Table](CS.1.png)
 
 ### 🔹 Update Address
 
-![Update Query](cs.2.png)
+![Update Query](CS.2.png)
 
 ### 🔹 Delete Record
 
-![Delete Query](cs.3.png)
+![Delete Query](CS.3.png)
 
 ### 🔹 Filter by Name (Alice)
 
@@ -62,19 +62,19 @@ This table contains order details like **order date and total amount**.
 
 ### 🔹 Select Orders
 
-![Orders Table](01.png)
+![Orders Table](O1.png)
 
 ### 🔹 Update Order Amount
 
-![Update Orders](o2.png)
+![Update Orders](02.png)
 
 ### 🔹 Delete Order
 
-![Delete Orders](03.png)
+![Delete Orders](O3.png)
 
 ### 🔹 Final Table Output
 
-![Final Orders](04.png)
+![Final Orders](O4.png)
 
 ---
 
