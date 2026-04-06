@@ -29,15 +29,15 @@ This table stores customer information like **name, email, and address**.
 
 ### 🔹 Initial Data
 
-![Customers Table](CS.1.png)
+![Customers Table](cs.1.png)
 
 ### 🔹 Update Address
 
-![Update Query](CS.2.png)
+![Update Query](cs.2.png)
 
 ### 🔹 Delete Record
 
-![Delete Query](CS.3.png)
+![Delete Query](cs.3.png)
 
 ### 🔹 Filter by Name (Alice)
 
@@ -62,19 +62,19 @@ This table contains order details like **order date and total amount**.
 
 ### 🔹 Select Orders
 
-![Orders Table](O1.png)
+![Orders Table](01.png)
 
 ### 🔹 Update Order Amount
 
-![Update Orders](02.png)
+![Update Orders](o2.png)
 
 ### 🔹 Delete Order
 
-![Delete Orders](O3.png)
+![Delete Orders](03.png)
 
 ### 🔹 Final Table Output
 
-![Final Orders](O4.png)
+![Final Orders](04.png)
 
 ---
 
@@ -133,7 +133,13 @@ This table tracks **product-wise order details, sales, and revenue analysis**.
 
 ![Top Products](L3.png)
 
+---
 
+### 🔹 Product Sales Count (NEW 🔥)
+
+👉 This query shows how many times each product is sold:
+
+```sql
 SELECT ProductID, COUNT(*) AS TimesSold
 FROM order_detalis
 GROUP BY ProductID;
@@ -166,6 +172,16 @@ GROUP BY ProductID;
 
 👉 Full SQL Code Available Here:
 
+
+---
+
+# 👨‍💻 Author
+
+**Dhruv Prajapati** ✨
+📍 BCA Student | SQL Learner
+
+---
+
 # 🌟 Final Note
 
 This project is perfect for:
@@ -174,12 +190,4 @@ This project is perfect for:
 * 🎤 Viva
 * 💻 Practice
 
-
----
-
-# 👨‍💻 Author
-
-**Dhruv Prajapati** ✨
-
----
 🚀 Keep learning SQL and build more projects!
