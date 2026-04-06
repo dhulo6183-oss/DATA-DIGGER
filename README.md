@@ -172,6 +172,7 @@ This project is perfect for:
 * 🎤 Viva
 * 💻 Practice
 
+---
 
 # 👨‍💻 Author
 
