@@ -138,6 +138,7 @@ This table tracks **product-wise order details, sales, and revenue analysis**.
 
 ![Times Sold](t4.png)
 
+---
 
 # ⚙️ 🛠️ Technologies Used
 
