@@ -135,7 +135,7 @@ This table tracks **product-wise order details, sales, and revenue analysis**.
 
 ---
 
-### 🔹 Product Sales Count (NEW 🔥)
+
 
 👉 This query shows how many times each product is sold:
 
@@ -148,7 +148,7 @@ GROUP BY ProductID;
 📸 Screenshot:
 ![Times Sold](t4.png)
 
----
+
 
 # ⚙️ 🛠️ Technologies Used
 
@@ -174,14 +174,6 @@ GROUP BY ProductID;
 
 
 ---
-
-# 👨‍💻 Author
-
-**Dhruv Prajapati** ✨
-📍 BCA Student | SQL Learner
-
----
-
 # 🌟 Final Note
 
 This project is perfect for:
@@ -189,5 +181,12 @@ This project is perfect for:
 * 📚 Exams
 * 🎤 Viva
 * 💻 Practice
+
+
+# 👨‍💻 Author
+
+**Dhruv Prajapati** ✨
+
+---
 
 🚀 Keep learning SQL and build more projects!
